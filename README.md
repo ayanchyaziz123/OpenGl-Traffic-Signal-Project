@@ -10,9 +10,9 @@ CONTENTS
          if click on right  button afterwards the vehicles will go.And it shows on trafiic signal 3 lights. 
 
  * Requirements
-    IDE : Codeblocks(17.12)
-    Languages : C and C++
-    Packages : Opengl, glut 
-    
+    * IDE : Codeblocks(17.12)
+    * Languages : C and C++
+    * Packages : Opengl, glut 
+
 
 
